@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BitcoinBrklyn
-- 👀 I’m interested in ... {Web Development, Moblie Apps}
+- 👀 I’m interested in ... {Web Development & Moblie Apps}
 - 🌱 I’m currently learning ... {JavaScript, HTML , CSS}
 - 💞️ I’m looking to collaborate on ... {Web & Moblie Apps}
 - 📫 How to reach me ... {@bitcoinbrklyn on twitter.com}
