@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BitcoinBrklyn
-- 👀 I’m interested in ... {Web Development, Moblie Apps, A.I, & ROBOTICS}
-- 🌱 Learning  {JavaScript + Node.JS + Express + React+ Mongo DB + Bootstrap + OOP + HTML + CSS}
+- 👀 I’m interested in ... {Web & Moblie Apps, A.I, & ROBOTICS}
+- 🌱 TeachStack {JavaScript + Node.JS + Express + React+ Mongo DB + Bootstrap + OOP + HTML + CSS}
 - 💞️ I’m looking to collaborate on ... {Web & Moblie Apps}
 - 📫 How to reach me ... {@bitcoinbrklyn on twitter.com}
 
