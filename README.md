@@ -28,4 +28,4 @@ You can find me on Twitter: [@bitcoinbrklyn](https://twitter.com/bitcoinbrklyn).
 
 ---
 
-This README is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. You can click the "Edit" button to customize it.
+
