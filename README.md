@@ -18,7 +18,7 @@ I'm BitcoinBrklyn, a passionate developer with interests in Web & Mobile Apps, A
 - HTML
 - CSS
 
-### Let's Collaborate 👯
+### Let's Collaborate 
 
 I'm open to collaborating on exciting projects, especially in the realm of Web and Mobile Apps. If you have a cool idea or project in mind, feel free to reach out!
 
