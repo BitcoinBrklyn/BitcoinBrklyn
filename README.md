@@ -2,9 +2,9 @@
 <!--   <img src="https://m.media-amazon.com/images/I/81saPIMABRL.jpg" alt="BitcoinBrklyn's Profile Image" width="200"> -->
 </div>
 
-## Hi there! 👋
+ Hi there! 👋
 
-I'm BitcoinBrklyn, a passionate Full Stack Software Engineer with interests in Web & Mobile Apps, A.I, and Robotics. I enjoy creating innovative solutions and learning new technologies.
+I'm BitcoinBrklyn, a passionate Full Stack Software Engineer with interests in Web & Mobile Apps. I enjoy creating innovative solutions and learning new technologies.
 
 
 ### :hammer_and_wrench: Tech Stack Tools :
