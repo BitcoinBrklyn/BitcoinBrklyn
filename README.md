@@ -6,8 +6,8 @@
 
 I'm BitcoinBrklyn, a passionate Software Engineer with interests in Web & Mobile Apps, A.I, and Robotics. I enjoy creating innovative solutions and learning new technologies.
 
-### Tech Stack 🚀
-### :hammer_and_wrench: Languages and Tools :
+
+### :hammer_and_wrench: Tech Stack Tools :
 <div>
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -21,9 +21,9 @@ I'm BitcoinBrklyn, a passionate Software Engineer with interests in Web & Mobile
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VsCode" alt="VsCode" width="50" height="50"/>&nbsp;
 
   </div>
-### Let's Collaborate 
+Let's Collaborate 
 
-I'm open to collaborating on exciting projects, especially in the realm of Web and Mobile Apps. If you have a cool idea or project in mind, feel free to reach out!
+I'm open to collaborating on exciting projects, especially in the realm of Web and Mobile Apps. Feel free to reach out!
 
 ### Get in Touch 📫
 
