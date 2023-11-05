@@ -30,7 +30,7 @@ I'm open to collaborating on exciting projects, especially in the realm of Web a
 ### Get in Touch 📫
 
 You can find me on Twitter: [@bitcoinbrklyn](https://twitter.com/bitcoinbrklyn).
-
+LINKEDIN : www.linkedin.com/in/vincentmollins
 ---
 
 
