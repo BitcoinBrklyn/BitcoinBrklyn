@@ -7,7 +7,7 @@
 I'm BitcoinBrklyn, a passionate Full Stack Software Engineer with interests in Web & Mobile Apps. I enjoy creating innovative solutions and learning new technologies.
 
 
-### hammer_and_wrench: Tech Stack Tools :
+Tech Stack Tools :
 <div>
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
