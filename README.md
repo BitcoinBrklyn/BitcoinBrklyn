@@ -5,7 +5,7 @@
  Hi there! 👋
 
 I'm BitcoinBrklyn, a passionate Full Stack Software Engineer with interests in Web & Mobile Apps. I enjoy creating innovative solutions and learning new technologies.
-Like AI/ML & Robotics 
+Like AI/ML , Robotics & Bitcoin 
 
 Tech Stack Tools :
 <div>
