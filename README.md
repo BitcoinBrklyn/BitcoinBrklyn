@@ -10,7 +10,7 @@ Like AI/ML , Robotics & Bitcoin
 Tech Stack Tools :
 <div>
 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"  title="BootStrap" alt="BootStrap" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
